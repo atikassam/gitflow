@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/atikassam/gitflow/issues"
   },
-  "homepage": "https://github.com/atikassam/gitflow#readme"
+  "homepage": "https://github.com/atikassam/gitflow#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
